@@ -64,12 +64,6 @@ This project demonstrates the development of a high-level **Product Analytics Da
 
 ---
 
-## 🔗 Optional
-
-> *Add a Power BI publish-to-web link here if applicable.*
-
----
-
 ## 📬 Author
 
 **Daniel Ekokoje**  
