@@ -1,6 +1,10 @@
 
 # 📊 Product Analytics Dashboard
 
+<p align="center">
+  <img src="./Assets/Screenshots/Dashboard Overview.jpeg" alt="Dashboard Overview" width="800"/>
+</p>
+
 ## 📝 Project Overview
 
 This project demonstrates the development of a high-level **Product Analytics Dashboard** to track key metrics such as revenue, profit, and unit sales across time, geography, and discount tiers. Built in response to a request from management, the dashboard supports strategic decision-making and high-level performance monitoring.
